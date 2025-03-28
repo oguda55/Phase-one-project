@@ -16,7 +16,7 @@ README.md - Project documentation
 open your gitbash terminal
  type git clone <repository-url> 
  this command will copy the remote repository to your local computer
- 2.open  the Index.ipynb file in Visual Studio Code or Jupyter notebook
+ 2. .open  the Index.ipynb file in Visual Studio Code or Jupyter notebook
  you can do this on the terminal by typing jupyter notebook to open jupyter notebook or by typing code . to open Visual Studio Code
  3. Run the cells in the notebook to execute the data cleaning,analysis and visualization steps
 
